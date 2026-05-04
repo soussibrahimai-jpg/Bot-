@@ -1,1 +1,5 @@
 requirements.txt
+pyTelegramBotAPI==4.14.0
+APScheduler==3.10.4
+pytz==2023.3
+Flask==2.3.3
